@@ -2,6 +2,8 @@
   "name": "game-of-life",
   "version": "0.1.0",
   "private": true,
+  "author": "Written, small tweaks, and lots of comments added by JulianNF, following Beau Carnes' (beaucarnes) tutorial.",
+  "original tutorial video": "https://www.youtube.com/watch?v=PM0_Er3SvFQ",
   "dependencies": {
     "react": "^16.8.6",
     "react-dom": "^16.8.6",
