@@ -1,6 +1,6 @@
 # Reviewing React - My Version of Beau Carnes' Conway's Game of Life
 
- In an effort to refresh my React knowledge, I typed up this script/app by following [Beau Carnes excellent tutorial on YouTube](https://www.youtube.com/watch?v=PM0_Er3SvFQ).
+ In an effort to refresh my React knowledge, I typed up this script/app while following [Beau Carnes excellent tutorial on YouTube](https://www.youtube.com/watch?v=PM0_Er3SvFQ).
 
 You'll find lots of comments added everywhere in my code. They're there for my (or other people's) future reference. Don't be alarmed by the "we" voice; that's how I write comments when studying as I find it easier to follow along when I refer back to my code, and I believe that it makes the comments and code easier for other people to follow along.
 
